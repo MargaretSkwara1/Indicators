@@ -1,6 +1,6 @@
-pandas 0.25.2
-numpy 1.17.3
-requests 2.22.0
+pandas == 0.25.2
+numpy == 1.17.3
+requests == 2.22.0
 bs4 4.8.1
 zipfile
 io
