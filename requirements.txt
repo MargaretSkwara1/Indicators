@@ -1,7 +1,7 @@
 pandas==0.25.2
 numpy==1.17.3
 requests==2.22.0
-beautifulsoup==4.8.1
+bs4
 zipfile
 io
 datetime
