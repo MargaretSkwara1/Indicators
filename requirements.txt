@@ -3,7 +3,6 @@ numpy==1.17.3
 requests==2.22.0
 bs4
 datetime
-re
 matplotlib
 seaborn
 pyxlsb
