@@ -1,6 +1,6 @@
 pandas==0.25.2
 numpy==1.17.3
-requests==2.22.0
+requests==2.31.0
 bs4
 datetime
 matplotlib
